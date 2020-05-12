@@ -1,0 +1,16 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "Application to create streams and publish them online",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "redux-forms": "^1.0.0-3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server -p 3001 -w db.json"
+  },
+  "author": "Dmxich",
+  "license": "ISC"
+}
