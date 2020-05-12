@@ -1,2 +1,2 @@
 # streamer
-Repository of Streamer project form React course on Udemy
+Repository of Streamer project from React-Redux course on Udemy
